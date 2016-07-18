@@ -1,0 +1,19 @@
+#Incredibly quick plugin written by Proplex (https://github.com/Proplex)
+
+#Use {player} if you want the message to use the player's name who called the command. You'll want to use this if broadcast is set to true.
+fortunes:
+    - "&4{player}'s fortune: Reply hazy, try again"
+    - "&c{player}'s fortune: Excellent Luck"
+    - "&6{player}'s fortune: Good Luck"
+    - "&e{player}'s fortune: Average Luck"
+    - "&2{player}'s fortune: Bad Luck"
+    - "&a{player}'s fortune: Good news will come to you by mail"
+    - "&b{player}'s fortune: ｷﾀ━━━━━━(ﾟ∀ﾟ)━━━━━━ !!!!"
+    - "&3{player}'s fortune: You will meet a dark handsome stranger"
+    - "&1{player}'s fortune: Better not tell you now"
+    - "&9{player}'s fortune: Outlook good"
+    - "&d{player}'s fortune: Very bad luck"
+    - "&5{player}'s fortune: Godly luck"
+
+#Do you want the fortune sent to the player who ran /fortune only? Or do you want the message broadcasted to the server? (true: broadcast to server, false: tell to player)
+broadcast: true

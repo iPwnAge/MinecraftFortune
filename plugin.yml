@@ -1,0 +1,9 @@
+name: Fortune
+version: 1.0
+author: Proplex (David Lohle)
+description: Tell a player their fortune!
+main: com.ipwnage.fortune.Fortune
+commands:
+   fortune:
+      description: Tell a player their fortune
+      usage: /fortune
